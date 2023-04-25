@@ -1,4 +1,4 @@
-# Project Readme
+# Readme
 ## Description
 This project is a Java implementation of a database manager that connects to an Oracle database and interacts with it. It contains three classes:
 
