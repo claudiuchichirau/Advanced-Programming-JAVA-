@@ -1,1 +1,2 @@
-t
+## Networking
+Această aplicație se bazează pe ideea de conectare între un client și un server. Serverul deschis așteaptă apariția clienților pentru a se putea conecta la acesta. Odată conectat, clientul poate trimite diferite comenzi către server prin intermediul conexiunii. În cazul în care o comandă este invalidă, aceasta va fi afișată în client. Principalele comenzi disponibile includ "exit", care oprește rularea terminalului clientului, dar lasă serverul deschis, și "stop", care are ca funcție principală oprirea totală a serverului, ceea ce înseamnă și oprirea automată a conexiunii clientului prin apelarea comenzii "exit".
